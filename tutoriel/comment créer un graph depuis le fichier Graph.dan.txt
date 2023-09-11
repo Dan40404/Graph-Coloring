@@ -1,0 +1,8 @@
+Afin de créer un graph depuis le fichier Graph.dan : 
+1/ Ouvrez le fichier Graph.dan
+2/ Écrivez vos sommet de la sorte : Sommet + Voisin (à la chaine)
+Par exemple, si le sommet A à pour voisin B et C et que les sommet B et C n'ont aucun autre voisins que A, on écrira : 
+ABC
+BA
+CA
+Attention : Prenez garde à ce que les sommets adjacents se possèdent tout les deux en voisins, sinon le graph sera invalide.

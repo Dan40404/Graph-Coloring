@@ -1,0 +1,6 @@
+Le problème de coloriage est un problème qui peut s'écrire sous deux formes.
+Celle de la décidabilité : 
+On cherche à savoir pour un graph G non orienté si celui-ci est coloriable avec k couleur donné en paramètre telle que deux sommets adjacents quelquoncs n'aient jamais la même couleur.
+
+Celle de la calculabilité :
+On cherche à savoir le nombre X de couleur pour colorier un graph G non orienté telle que deux sommets adjacents quelquoncs n'aient jamais la même couleur.

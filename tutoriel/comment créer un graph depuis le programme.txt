@@ -1,0 +1,5 @@
+Pour créer un graph depuis le programme :
+Lorsque vous entrez les voisins, écrivez les à la chaîne
+Par exemple, si le sommet A a pour voisin B et C on écrira ses voisins de la manière suivante : 
+BC
+Attention : Prenez garde à ce que les sommets adjacents se possèdent tout les deux en voisins, sinon le graph sera invalide.
